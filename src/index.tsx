@@ -15,3 +15,8 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+// REACT_APP_EMAIL_SERVICE_ID=XXXXXXXXXXXXXX
+// REACT_APP_EMAIL_TEMPLATE_ID=XXXXXXXXXXXXX
+// REACT_APP_EMAIL_USER_ID=XXXXXXXXXX
